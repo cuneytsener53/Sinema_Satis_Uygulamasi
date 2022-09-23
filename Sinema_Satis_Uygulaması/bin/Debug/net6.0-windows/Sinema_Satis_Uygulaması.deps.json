@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sinema_Satis_Uygulaması/1.0.0": {
+        "runtime": {
+          "Sinema_Satis_Uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sinema_Satis_Uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
